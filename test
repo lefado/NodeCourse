@@ -1,0 +1,11 @@
+TERMIAL 1
+mongod -dbpath=data2
+TERMINAL 2
+mongo
+  use conFusion
+TERMINAL 3
+in the project: npm start
+
+https://localhost:3443/dishes/
+
+https://localhost:3443/promotions
